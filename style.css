@@ -115,7 +115,7 @@ body {
     position: relative;
     width: 64px;
     height: 64px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: red;
     transform: rotate(45deg);
     overflow: hidden;
   }
